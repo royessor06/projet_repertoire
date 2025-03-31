@@ -3,8 +3,11 @@
 Membres du groupe
 ---
 ADJOVI Ruth
+
 MAMA-ABOUDOU Arifath
+
 SAGBO Bastflore
+
 SAVY Roy
 
 Introduction du projet
@@ -97,4 +100,4 @@ Pour le projet, l'utilisation d'une bibliothèque pour la gestion d'image était
 pip install Pillow
 ```
 
-Pour les fonctions créer et utiliser dans le code source, nous avions eu besoin de faire des recherches et utiliser des IA pour savoir quoi faire et comment faire.
+Pour les fonctions créer et utiliser dans le code source, nous avions eu besoin de faire des recherches et utiliser des IA pour avoir plus de précisions sur la question "comment faire ?".
