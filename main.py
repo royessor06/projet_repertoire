@@ -176,9 +176,9 @@ btn_creer_dossier = tk.Button(root, text="Créer Dossier", command=creer_dossier
 btn_creer_dossier.grid(row=2, column=2, pady=5)
 
 # Chargement des icônes
-dossier_img = Image.open("Icon/dossier_icon.jpeg").resize((50, 50))
+dossier_img = Image.open("dossier_icon.jpeg").resize((50, 50))
 dossier_icon = ImageTk.PhotoImage(dossier_img)
-fichier_img = Image.open("Icon/fichier_icon.jpeg").resize((50, 50))
+fichier_img = Image.open("fichier_icon.jpeg").resize((50, 50))
 fichier_icon = ImageTk.PhotoImage(fichier_img)
 
 # Affichage initial
