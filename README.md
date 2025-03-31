@@ -1,5 +1,12 @@
 # projet_repertoire
 
+Membres du groupe
+---
+ADJOVI Ruth
+MAMA-ABOUDOU Arifath
+SAGBO Bastflore
+SAVY Roy
+
 Introduction du projet
 ---
 L'objectif de cet exercice final est de mettre en pratique les concepts de programmation évènementielle avec Tkinter en créant un explorateur de fichiers simple.
@@ -86,6 +93,8 @@ Difficultés et solutions
 
 Pour le projet, l'utilisation d'une bibliothèque pour la gestion d'image était nécessaire au niveau des icons. Nous avons donc utiliser PIL, celui ci n'etant pas déjà installer nous avions utiliser la commande suivante dans le Terminal:
 
-'''bash
+```bash
 pip install Pillow
+```
 
+Pour les fonctions créer et utiliser dans le code source, nous avions eu besoin de faire des recherches et utiliser des IA pour savoir quoi faire et comment faire.
