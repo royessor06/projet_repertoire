@@ -45,29 +45,39 @@ google.com
 
 Screenshots
 ---
-
+L'interface se presente comme sur l'image suivante:
 ![](Capture_1.png)
 
+Pour créer un nouveau dossier nous allons cliquez sur le bouton "Créer Dossier" et ça nous donne la main en demandant le nom du dossier:
 ![](Capture_2.png)
 
 ![](Capture_3.png)
 
+On voit là que le dossier "essaie" est créé:
 ![](Capture_4.png)
 
+Un clic droit sur ce dossier nous permet d'afficher des options "Ouvrir","Renommer",Supprimer","Ajouter aux Favoris".
+L'option "Renommer" nous permet de changer le nom du fichier ou du dossier. Changeons "essaie" en "nouveau_nom":
 ![](Capture_5.png)
 
 ![](Capture_6.png)
 
 ![](Capture_7.png)
 
+Le dossier à été renommé en "nouvea_dossier" comme on le voit sur l'image:
 ![](Capture_8.png)
 
+L'option "Ajouter aux Favoris" :
 ![](Capture_9.png)
 
 ![](Capture_10.png)
 
+Dans la liste "Favoris" on remarque que le dossier est belle et bien venu:
 ![](Capture_11.png)
 
+L'option "Supprimer" :
 ![](Capture_12.png)
 
+La fenetre après la suppression:
 ![](Capture_13.png)
+
