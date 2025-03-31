@@ -81,3 +81,11 @@ L'option "Supprimer" :
 La fenetre après la suppression:
 ![](Capture_13.png)
 
+Difficultés et solutions
+---
+
+Pour le projet, l'utilisation d'une bibliothèque pour la gestion d'image était nécessaire au niveau des icons. Nous avons donc utiliser PIL, celui ci n'etant pas déjà installer nous avions utiliser la commande suivante dans le Terminal:
+
+'''bash
+pip install Pillow
+
